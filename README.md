@@ -1,2 +1,2 @@
 # demodevop
-Devop pratice 
+Devop practice 
